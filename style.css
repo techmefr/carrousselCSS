@@ -104,7 +104,7 @@ body {
   border-radius: 10px;
   cursor: pointer;
 }
-.carousel-links {
+/* .carousel-links {
   position: absolute;
   bottom: 10px;
   left: 50%;
@@ -126,4 +126,4 @@ body {
 
 .carousel-links a:hover {
   background-color: #ccc;
-}
+} */
