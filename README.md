@@ -58,8 +58,8 @@ Les points de navigation en bas du carrousel permettent aux utilisateurs de saut
 
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/votreusername/nom-du-depot.git
-cd nom-du-depot
+git clone https://github.com/techmefr/carrousselCSS.git
+cd carrousselCSS
 ```
 
 2. Ouvrez le fichier `index.html` dans votre navigateur
@@ -91,3 +91,7 @@ Ce carrousel fonctionne sur tous les navigateurs modernes qui supportent les ani
 - Intégration d'indicateurs d'image active
 - Ajout d'une option pause/lecture
 - Mise en œuvre d'un design responsive plus avancé
+
+---
+
+✨ **Développé par [TechmeFR](https://github.com/techmefr)** - Un exemple de développement front-end créatif sans dépendances.
